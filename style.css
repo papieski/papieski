@@ -6,4 +6,7 @@ h1 {
   font-size: 38px;
   
 }
+.container{
+display:flex; 
+}
 
