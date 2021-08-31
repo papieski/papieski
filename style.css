@@ -1,5 +1,9 @@
 body {
   background-color: lightgrey;
 }
-
+h1 {
+  margin: auto;
+  font-size: 38px;
+  
+}
 
