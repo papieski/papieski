@@ -58,7 +58,7 @@ h2{margin: 0 auto;
 .nav{
   display:flex;
   justify-content: center;
-  background-image: url('theme.jpg');
+  
   margin-bottom:50px;
 }
 .footer {
