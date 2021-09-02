@@ -3,6 +3,11 @@ body {
   width: 100%;
 
 }
+
+img{
+  max-width:100%
+}
+
 p{
     font-family:"Arial";
 }
