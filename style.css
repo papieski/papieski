@@ -37,6 +37,7 @@ h2{margin: 0 auto;
 .container{
   display:flex; 
   justify-content: space-between;
+  padding:10px;
   
 }
 .left{
