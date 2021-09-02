@@ -62,7 +62,7 @@ h2{margin: 0 auto;
   margin-bottom:50px;
 }
 .footer {
-   position:absolute;
+   position:fixed;
   display: flex;
   align-items:center;
   justify-content:center;
